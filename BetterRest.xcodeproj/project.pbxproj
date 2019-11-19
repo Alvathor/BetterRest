@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C051C5FC2384263100E3E6C1 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = C051C5FB2384263100E3E6C1 /* SleepCalculator.mlmodel */; };
 		C0E197E123819E570073C054 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E197E023819E570073C054 /* AppDelegate.swift */; };
 		C0E197E323819E570073C054 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E197E223819E570073C054 /* SceneDelegate.swift */; };
 		C0E197E523819E570073C054 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E197E423819E570073C054 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C051C5FB2384263100E3E6C1 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 		C0E197DD23819E570073C054 /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0E197E023819E570073C054 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C0E197E223819E570073C054 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				C0E197E623819E590073C054 /* Assets.xcassets */,
 				C0E197EB23819E590073C054 /* LaunchScreen.storyboard */,
 				C0E197EE23819E590073C054 /* Info.plist */,
+				C051C5FB2384263100E3E6C1 /* SleepCalculator.mlmodel */,
 				C0E197E823819E590073C054 /* Preview Content */,
 			);
 			path = BetterRest;
@@ -149,6 +152,7 @@
 				C0E197E123819E570073C054 /* AppDelegate.swift in Sources */,
 				C0E197E323819E570073C054 /* SceneDelegate.swift in Sources */,
 				C0E197E523819E570073C054 /* ContentView.swift in Sources */,
+				C051C5FC2384263100E3E6C1 /* SleepCalculator.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
